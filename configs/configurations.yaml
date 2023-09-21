@@ -1,0 +1,10 @@
+host: 127.0.0.1
+port: 8000
+common_chat_dump: common_chat_msg.pkl
+users_status_dump: users_status.pkl
+messages_lifetime: 3600
+ban_period: 14400
+strikes_limit: 2
+reader_chunk_size: 1024
+server_logs: server_log.log
+client_logs: client_log.log
